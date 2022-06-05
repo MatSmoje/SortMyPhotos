@@ -40,7 +40,7 @@ class sortImage():
                         val = os.path.join(path, name)
                         df_length = len(df)
                         df.loc[df_length] = [val,0]
-                        self.checkDir(df)
+                        self.getDirectories(df)
         return df
         
        
