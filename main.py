@@ -30,8 +30,6 @@ class sortImage():
                         os.makedirs(newPath2)
                     print(newPath2)
 
-
-    
     def checkPath(self, df):
         df = df['path']
         df2 = pd.DataFrame()
