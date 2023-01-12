@@ -12,3 +12,6 @@ Eventually, there might be a hash collision, so you could get two different imag
 - MD5: 1.47E-29  
 - SHA1: 1E-45  
 - SHA256: 4.3*E-60  
+
+## What is comming?
+I will be developing a script that read the metadata from the image to get the date when the photo was taken. Then, all images will be organized in folders by the date where they were taken. 
